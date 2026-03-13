@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "fiction",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-03-13T16:40:12.451654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pulp Fiction",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": false,
+      "path": "select/01_Pulp_Fiction_Amanda_Palmer,_Edward_Ka-Spel.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pulp Fiction",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/02_Pulp_Fiction_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Science Fiction / Double Feature (Reprise)",
+      "artist": "Adam Lambert feat. Ivy Levan",
+      "has_synced": false,
+      "path": "select/03_Science_Fiction___Double_Feature_(Reprise)_Adam_Lambert_feat._Ivy_Levan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stranger Than Fiction",
+      "artist": "Moi Caprice",
+      "has_synced": false,
+      "path": "select/04_Stranger_Than_Fiction_Moi_Caprice.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stranger That Fiction",
+      "artist": "Moi Caprice",
+      "has_synced": false,
+      "path": "select/05_Stranger_That_Fiction_Moi_Caprice.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Car Fiction",
+      "artist": "Echobelly",
+      "has_synced": true,
+      "path": "select/06_Car_Fiction_Echobelly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Car Fiction",
+      "artist": "Echobelly",
+      "has_synced": false,
+      "path": "select/07_Car_Fiction_Echobelly.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fiction",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/08_Fiction_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stranger Than Fiction",
+      "artist": "Belouis Some",
+      "has_synced": false,
+      "path": "select/09_Stranger_Than_Fiction_Belouis_Some.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fiction (feat. Tom Odell)",
+      "artist": "Kygo feat. Tom Odell",
+      "has_synced": true,
+      "path": "select/10_Fiction_(feat._Tom_Odell)_Kygo_feat._Tom_Odell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fiction",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/11_Fiction_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fiction",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/12_Fiction_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Science Fiction",
+      "artist": "Bassnectar feat. LUZCID",
+      "has_synced": true,
+      "path": "select/13_Science_Fiction_Bassnectar_feat._LUZCID.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Non-Fiction",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/14_Non-Fiction_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fiction",
+      "artist": "The Concretes",
+      "has_synced": true,
+      "path": "select/15_Fiction_The_Concretes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Part Past Part Fiction",
+      "artist": "The Chills",
+      "has_synced": false,
+      "path": "select/16_Part_Past_Part_Fiction_The_Chills.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Science Fiction",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/17_Science_Fiction_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Master and Servant (An ON-USound Science Fiction Dance Hall Classic)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/18_Master_and_Servant_(An_ON-USound_Science_Fiction_Dance_Hall_Classic)_Depeche_Mode.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fiction",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_fiction_04_Limited_Sazabys.txt"
+    }
+  ]
+}
